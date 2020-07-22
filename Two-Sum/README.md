@@ -6,5 +6,5 @@ You are given a list of numbers, and a target number k. Return whether or not th
 
 
 ## Example:    
-> Given *[4, 7, 1 , -3, 2]* and *k = 5*,
+> Given *[4, 7, 1 , -3, 2]* and *k = 5*,    
 > return true since *4 + 1 = 5*.   
